@@ -66,7 +66,7 @@
 GL_LIST
 #undef GLE
 
-#define WINDOW_TITLE "X11 Modern OpenGL Context"
+#define WINDOW_TITLE "Hello, Triangle!"
 #define WINDOW_WIDTH 960
 #define WINDOW_HEIGHT 540
 #define WINDOW_CLEAR_COLOR 0.17f, 0.17f, 0.17f, 1.0f
