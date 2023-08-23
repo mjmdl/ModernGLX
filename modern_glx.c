@@ -1,4 +1,4 @@
-/* gcc x11_glx.c -o x11_glx -lX11 -lGL */
+/* gcc modern_glx.c -o modern_glx -lX11 -lGL */
 #include <assert.h>
 #include <dlfcn.h>
 #include <stdbool.h>
