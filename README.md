@@ -8,4 +8,6 @@ RGBA Triangle in linux using only native libs:
 
 ## Build
 
-gcc x11_glx.c -o x11_glx -lX11 -lGL
+```sh
+gcc modern_glx.c -o modern_glx -lX11 -lGL
+```
